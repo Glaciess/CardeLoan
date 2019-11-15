@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="LoanCal">Loan Calculator</string>
+    <string name="car_price">Car Price :</string>
+    <string name="down_payment_amount">Down Payment Amount :</string>
+    <string name="loan_period">Loan Period :</string>
+    <string name="interest_rate">Interest Rate :</string>
+    <string name="rm_0_00">RM 0.00</string>
+    <string name="years">Years</string>
+    <string name="_0_00">0.00%</string>
+    <string name="calculate">Calculate</string>
+</resources>
